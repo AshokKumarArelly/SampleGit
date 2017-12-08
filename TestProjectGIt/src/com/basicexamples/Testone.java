@@ -6,7 +6,9 @@ public class Testone {
 		// Giving a comment here to check changes.
 		System.out.println("This is Test one class Program");
 		
-		System.out.println("New Line Added to this class to test");
+		
+		
+		System.out.println("Added directly from the git server");
 	}
 
 }
